@@ -1,8 +1,9 @@
-    query Webcams {
-        webcams {
-            id
-            name
-            url
-            id_key
-            tags
-        }
+query Webcams {
+  webcams {
+    id
+    name
+    url
+    id_key
+    tags
+  }
+}
